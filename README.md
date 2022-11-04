@@ -1,5 +1,7 @@
 # theBestDittoTheme for [Ditto](https://ditto-cp.sourceforge.io/)
 
+This Ditto theme is inspired by [The Best Theme](https://github.com/jankohlbach/The-Best-Theme) by [jankohlbach](https://github.com/jankohlbach/the-best-theme/commits?author=jankohlbach)
+
 ![Screenshot](./screenshot.png)
 
 ## Installation
