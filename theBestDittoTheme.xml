@@ -1,0 +1,44 @@
+<Ditto_Theme_File Version="3" Author="iM4x" Notes="DarkTheme like VSCode Theme 'The Best Theme'">
+
+	<CaptionLeft>RGB(20, 26, 31)</CaptionLeft>
+	<CaptionRight>RGB(20, 26, 31)</CaptionRight>
+
+	<CaptionLeftTopMost>RGB(20, 26, 31)</CaptionLeftTopMost>
+	<CaptionRightTopMost>RGB(51,51,51)</CaptionRightTopMost>
+
+	<CaptionLeftNotConnected>RGB(20, 26, 31)</CaptionLeftNotConnected>
+	<CaptionRightNotConnected>RGB(51,51,51)</CaptionRightNotConnected>
+
+	<CaptionTextColor>RGB(55, 100, 144)</CaptionTextColor>
+
+	<ListBoxOddRowsBG>RGB(11, 15, 17)</ListBoxOddRowsBG>
+	<ListBoxEvenRowsBG>RGB(20, 26, 31)</ListBoxEvenRowsBG>
+
+	<ListBoxOddRowsText>RGB(204, 204, 204)</ListBoxOddRowsText>
+	<ListBoxEvenRowsText>RGB(204, 204, 204)</ListBoxEvenRowsText>
+
+	<ListBoxSelectedBG>RGB(85, 153, 221)</ListBoxSelectedBG>
+	<ListBoxSelectedNoFocusBG>RGB(64,64,64)</ListBoxSelectedNoFocusBG>
+
+	<ListBoxSelectedText>RGB(255, 255, 255)</ListBoxSelectedText>
+	<ListBoxSelectedNoFocusText>RGB(204, 204, 204)</ListBoxSelectedNoFocusText>
+
+	<Border>RGB(20, 26, 31)</Border>
+	<BorderTopMost>RGB(20, 26, 31)</BorderTopMost>
+	<BorderNotConnected>RGB(255,0,0)</BorderNotConnected>
+
+	<GroupTreeBG>RGB(20, 26, 31)</GroupTreeBG>
+	<GroupTreeText>RGB(204, 204, 204)</GroupTreeText>
+
+	<CaptionSize></CaptionSize>
+	<CaptionFontSize></CaptionFontSize>
+
+	<DescriptionWindowBG>RGB(204,204,204)</DescriptionWindowBG>
+	<DescriptionWindowText></DescriptionWindowText>
+
+	<MainWindowBG>RGB(20, 26, 31)</MainWindowBG>
+
+	<SearchTextBoxFocusBG>RGB(11, 15, 17)</SearchTextBoxFocusBG>
+	<SearchTextBoxFocusText>RGB(204, 204, 204)</SearchTextBoxFocusText>
+
+</Ditto_Theme_File>
