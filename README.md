@@ -6,5 +6,5 @@ This Ditto theme is inspired by [The Best Theme](https://github.com/jankohlbach/
 
 ## Installation
 
-- Put the xml file inside the Themes folder of your [Ditto](https://ditto-cp.sourceforge.io/) installation
-- Inside [Ditto](https://ditto-cp.sourceforge.io/) navigate to "Options" -> "General" -> "Theme" and select your new Theme
+1. Put the xml file inside the Themes folder of your [Ditto](https://ditto-cp.sourceforge.io/) installation
+2. Inside [Ditto](https://ditto-cp.sourceforge.io/) navigate to "Options" -> "General" -> "Theme" and select your new Theme
